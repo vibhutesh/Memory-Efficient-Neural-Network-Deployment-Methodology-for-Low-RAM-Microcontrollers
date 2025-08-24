@@ -1,0 +1,8 @@
+# Environment for 100% reproducibility. April-May-June 2024
+tensorflow==2.15.0
+scikit-learn==1.4.0
+scikit-image==0.23.2
+numpy==1.26.4
+scipy==1.13.1
+seaborn==0.13.2
+matplotlib==3.8.4
